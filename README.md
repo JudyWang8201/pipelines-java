@@ -1,4 +1,4 @@
-
+[![Build Status](https://judysnow.visualstudio.com/TestPipelinesJavaProject/_apis/build/status/JudyWang8201.pipelines-java?branchName=master)](https://judysnow.visualstudio.com/TestPipelinesJavaProject/_build/latest?definitionId=8&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
